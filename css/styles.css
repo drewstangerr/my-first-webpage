@@ -1,0 +1,13 @@
+  h1 {
+      color: red;
+      text-align: center;
+  }
+
+  p {
+      font-family: sans-serif;
+  }
+
+  ul {
+    font-size: 40px;
+    line-height: 50px;
+  }
